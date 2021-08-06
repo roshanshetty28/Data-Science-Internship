@@ -11,6 +11,15 @@ object-oriented programming.
 I learnt about importance of data, data extraction, processing and visualisation. I learnt about using
 various datasets and run the algorithms to discover the data patterns.
 
+Program Summary:
+•Introduction to Programming
+•Python installation, Environment Setup
+•Basics of Python, Syntax, Datatypes, Variables
+•Loop, Functions
+•NumPy, Panda's, Matplotlib, scikit-learn, etc
+•Working with various datasets
+•Data extraction, Processing, Visualisation
+
 These are my data science projects:
 
 I have worked with some datasets analyzed them, tried to represent the data using the knowledge i got from my internship.
