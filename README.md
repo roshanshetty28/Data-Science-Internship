@@ -31,3 +31,5 @@ DATA_SCIENCE_PROJECT_FISH: In this project I cleaned the dataset which i downloa
 DATA_SCIENCE_PROJECT_GPU: In this project I cleaned the dataset which i downloaded from kaggle and applied linear regression algorithm to train and test the model. r2 score is used to determine the accuracy, mean squared error is also claculated. Data is represented in different manners.
 
 DATA_SCIENCE_PROJECT_STOCKS: In this project I cleaned the dataset which i downloaded from kaggle and applied linear regression algorithm to train and test the model. r2 score is used to determine the accuracy. Data is represented for only some companies. Stocks of only these companies are computed based on some selected features. The result is shown using plotting.
+
+By now, I know Python programming, alogorithms and basics of data science concepts. Overall it was good experience to enhance my technical skills while I also learnt about domain and process. I look forward to implement these as I begin my career as software professional, soon.
